@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\bin\Debug\AskerDagitimUygulamasi.exe.config
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\bin\Debug\AskerDagitimUygulamasi.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\bin\Debug\AskerDagitimUygulamasi.pdb
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.frm_anaSayfa.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.Properties.Resources.resources
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.exe
+D:\Belgeler\Projeler\Ntp_Dersleri\AskerDagitimUygulamasi\AskerDagitimUygulamasi\obj\Debug\AskerDagitimUygulamasi.pdb
